@@ -3,7 +3,7 @@ Official repo for the game Project Ghost
 
 ## What is this?
 
-Project Ghost is an free-to-play open source, online multiplayer arena game. This repo holds the wiki for the game as well as the API code used by the server. The API code is used for every game played on the server and acts as sort of the "rules of the game".
+Project Ghost is a free-to-play open source, online multiplayer arena game. This repo holds the wiki for the game as well as the API code used by the server. The API code is used for every game played on the server and acts as sort of the "rules of the game".
 
 ## Why open source?
 
